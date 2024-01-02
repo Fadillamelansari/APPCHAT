@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550521571100",
+    "project_id": "tryee-ed2d1",
+    "storage_bucket": "tryee-ed2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550521571100:android:ead093e8fd91264bb0dcd9",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_yVJ8wOS3JLPh4hWu4sg4f9qFpdI1lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
